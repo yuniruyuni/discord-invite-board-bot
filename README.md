@@ -1,3 +1,6 @@
-# Discord-invite-bot
+# Discord-Invite-Bot
+
 お手柔らかにお願いします;)
 
+1. 変数名に統一感が無いので、決め方等を知りたい
+2. asyncを多様してしまっているので、
