@@ -12,7 +12,7 @@
 ![2](https://user-images.githubusercontent.com/105027725/196024617-8aa2af30-272b-4cbf-bbf7-c4be72683d22.png)
   
 ## 募集コマンド
-作成されたメッセージに:o:や:x:を付けると参加者に追記されます。
+作成されたメッセージに:o:を付けると参加者に追記され、:x:を付けると募集を仕切ります。
 |![GameTitle]@[PlayersNumber] [Comment]|
 |:---|
 
